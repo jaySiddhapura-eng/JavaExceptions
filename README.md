@@ -4,7 +4,6 @@
 
 ## What is Exception in JAVA ?
 
-
 1. Unwanted or unexpected event that can occur during **RUN TIME**
 
 2. Error != Exception [both can be thrown by a running app]
@@ -14,14 +13,14 @@
 ## What is throwing an Exception ?
 
 1. During exception occurrence, **Exception object** is being created 
-2. Exception object holds information about:
+2. Exception object holds information about: 
    1. **Name** of exception
    2. **Description** of exception
    3. **State of program** where exception occurred
-3. Runtime system searches the **Call Stack**
+3. Runtime system searches the **Call Stack** 
    1. Call Stack: A list of methods which can handle the occurred exception
    2. The block of code in above mentioned method, which handles the exception called **Exception handler**
-4. What if runtime unable to find the suitable exception handler
+4. What if runtime unable to find the suitable exception handler 
    1. **Default Exception Handler**(DEH) is being called
    2. DEH terminates the program, and print exception information.
 
