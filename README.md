@@ -5,6 +5,7 @@
 ## What is Exception in JAVA ?
 
 1. Unwanted or unexpected event that can occur during **RUN TIME**
+
 2. Error != Exception [both can be thrown by a running app]
    1. **Error**: A problem/condition which app should not try to <u>catch</u>
    2. **Exception**:  A problem/condition which app might try to <u>catch</u>
