@@ -60,8 +60,8 @@
 
 5. **THROWS**
 
-   1. THROWS keyword is used to declare that method can produce **exception/exceptions**<br><br>
-   2. It works similar to the try and catch block<br><br>
+   1. THROWS keyword is used to declare that method can produce **exception/exceptions**
+   2. It works similar to the try and catch block
    3. Sample:
 
       ~~~java
