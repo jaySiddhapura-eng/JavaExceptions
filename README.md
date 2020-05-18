@@ -19,13 +19,13 @@
 
    1. **Name** of exception
    2. **Description** of exception
-   3. **State of program** where exception occurred
+   3. **State of program** where exception occurred  
 
 
 3. Runtime system searches the **Call Stack** 
 
    1. Call Stack: A list of methods which can handle the occurred exception
-   2. The block of code in above mentioned method, which handles the exception called **Exception handler**
+   2. The block of code in above mentioned method, which handles the exception called **Exception handler**  
 
 
 4. What if runtime unable to find the suitable exception handler
