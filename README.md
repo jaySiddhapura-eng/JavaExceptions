@@ -12,7 +12,8 @@
 
 ## What is throwing an Exception ?
 
-1. During exception occurrence, **Exception object** is being created 
+1. During exception occurrence, **Exception object** is being created
+
 2. Exception object holds information about: 
    1. **Name** of exception
    2. **Description** of exception
