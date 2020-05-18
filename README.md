@@ -32,18 +32,18 @@
    2. CATCH
    3. THROW
    4. THROWS
-   5. FINALLY
+   5. FINALLY<br><br>
 
 2. **TRY block**
 
    1. A program statement which can raise the exception goes into TRY block
-   2. TRY block can contain more then one statement, which can produce exception
+   2. TRY block can contain more then one statement, which can produce exception<br><br>
 
 3. **CATCH block**
 
    1. CATCH block catches exception which is thrown during execution of TRY block
    2. Also holds statements which can resolve/handle the exception in some rational manner
-   3. There can be more then one catch blocks to accommodate multiple exception handling
+   3. There can be more then one catch blocks to accommodate multiple exception handling<br><br>
 
 4. **THROW**
 
@@ -60,10 +60,8 @@
 
 5. **THROWS**
 
-   1. THROWS keyword is used to declare that method can produce **exception/exceptions**
-
-   2. It works similar to the try and catch block
-
+   1. THROWS keyword is used to declare that method can produce **exception/exceptions**<br><br>
+   2. It works similar to the try and catch block<br><br>
    3. Sample:
 
       ~~~java
@@ -80,8 +78,7 @@
 
 6. **FINALLY**
 
-   1. Any statement that absolutely must be executed after TRY block is put in FINALLY block
-
+   1. Any statement that absolutely must be executed after TRY block is put in FINALLY block<br><br>
    2. If exception occurred and did not handled properly, anything after try catch clause will not be executed and results into runtime error
 
       Sample:
