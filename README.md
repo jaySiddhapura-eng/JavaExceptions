@@ -78,7 +78,7 @@
 
 6. **FINALLY**
 
-   1. Any statement that absolutely must be executed after TRY block is put in FINALLY block<br><br>
+   1. Any statement that absolutely must be executed after TRY block is put in FINALLY block
    2. If exception occurred and did not handled properly, anything after try catch clause will not be executed and results into runtime error
 
       Sample:
